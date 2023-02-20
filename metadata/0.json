@@ -1,0 +1,9 @@
+{
+  "name": "Delhi",
+  "description": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.",
+  "image": "ipfs://QmX5hVzqULkPSwyRsWoGTJmRHN8GEPgvCqnHDodhB2fdLD/delhi.jpg",
+  "properties": {
+    "rarity": "Very Rare",
+    "fanciness": 9
+  }
+}
